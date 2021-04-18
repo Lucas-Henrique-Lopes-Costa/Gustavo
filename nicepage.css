@@ -19705,12 +19705,12 @@ a.u-link.u-hover-color-1-dark-3:hover {
 .u-container-style.u-color-1-dark-2:before,
 .u-table-alt-color-1-dark-2 tr:nth-child(even) {
   color: #ffffff;
-  background-color: #1f203a;
+  background-color: #bdbdc2;
 }
 .u-button-style.u-color-1-dark-2,
 .u-button-style.u-color-1-dark-2[class*="u-border-"] {
   color: #ffffff !important;
-  background-color: #1f203a !important;
+  background-color: #bdbdc2 !important;
 }
 .u-button-style.u-color-1-dark-2:hover,
 .u-button-style.u-color-1-dark-2[class*="u-border-"]:hover,
